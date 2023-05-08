@@ -1,0 +1,7 @@
+C:\Users\MyASUS\Documents\ITSCO\ProgramacionVisual\poo\poo\bin\Debug\poo.exe.config
+C:\Users\MyASUS\Documents\ITSCO\ProgramacionVisual\poo\poo\bin\Debug\poo.exe
+C:\Users\MyASUS\Documents\ITSCO\ProgramacionVisual\poo\poo\bin\Debug\poo.pdb
+C:\Users\MyASUS\Documents\ITSCO\ProgramacionVisual\poo\poo\obj\Debug\poo.csproj.AssemblyReference.cache
+C:\Users\MyASUS\Documents\ITSCO\ProgramacionVisual\poo\poo\obj\Debug\poo.csproj.CoreCompileInputs.cache
+C:\Users\MyASUS\Documents\ITSCO\ProgramacionVisual\poo\poo\obj\Debug\poo.exe
+C:\Users\MyASUS\Documents\ITSCO\ProgramacionVisual\poo\poo\obj\Debug\poo.pdb
